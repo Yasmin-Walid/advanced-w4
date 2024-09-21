@@ -96,3 +96,32 @@ header{
   height: 1093px;
   background-position: center;
 }
+.bruce-img{
+  border-radius: 200px;
+}
+
+.Smile-of-the-year{
+  position: relative;
+  bottom: 10px;
+  color: white;
+  width: 150px;
+  text-align: center;
+}
+.little-smile{
+  position: relative;
+  bottom: 10px;
+  color: white;
+  width: 150px;
+  text-align: center;
+
+
+}
+
+.Friend-Smile{
+  position: relative;
+  bottom: 10px;
+  color: white;
+  width: 150px;
+  text-align: center;
+
+}
