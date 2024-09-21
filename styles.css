@@ -1,0 +1,59 @@
+
+.logo {
+    margin-left: 60px;
+  }
+  nav {
+    background-color: rgb(17, 18, 17);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    width: 2000px;
+    color: white;
+    font-family: sans-serif;
+  }
+  .nav-links {
+    display: flex;
+    margin-left: 1000px;
+    margin-right: 200px;
+    padding: 20px;
+    text-decoration: none;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+  }
+  @font-face {
+    font-family: Myfont;
+    src: url(font2);
+  }
+  h1 {
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 100px;
+  }
+  .span {
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 500px;
+  }
+  .register-for-free {
+    background-color: #c271ff;
+    color: aliceblue;
+    border-radius: 22px;
+    border-style: none;
+    height: 44px;
+    width: 162px;
+  }
+  .container-reg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 36px;
+  }
+  
