@@ -13,12 +13,10 @@ nav {
   padding-top: 35px;
   height: 30px;
   margin-left: 172px;
-
 }
 
 .nav-links {
-  display: flex;  
-
+  display: flex;
 }
 .nav-links a {
   text-decoration: none;
@@ -34,19 +32,16 @@ h1 {
   font-size: 100px;
   color: white;
   margin-top: 220px;
-
- }
+}
 
 .subheading {
   font-size: 18px;
   letter-spacing: 2px;
   text-align: center;
-  color: white;  
-  position:relative;
+  color: white;
+  position: relative;
   bottom: 70px;
-
 }
-
 
 .register-for-free {
   background-color: #c271ff;
@@ -62,18 +57,15 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  position:relative;
+  position: relative;
   bottom: 45px;
-
-
-
 }
-h2{
+h2 {
   text-align: center;
   margin-top: 100px;
   font-size: 32px;
 }
-.pictures{
+.pictures {
   display: flex;
   justify-content: center;
   justify-content: space-around;
@@ -81,14 +73,13 @@ h2{
   gap: 5px;
 }
 
-header{
+header {
   background-size: cover;
   background-position: horizontal-position;
   background-repeat: no-repeat;
   background-attachment: fixed;
- 
 }
-.background-img{
+.background-img {
   background-image: url(../images/Object.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -96,11 +87,11 @@ header{
   height: 1093px;
   background-position: center;
 }
-.bruce-img{
+.bruce-img {
   border-radius: 200px;
 }
 
-.Smile-of-the-year{
+.Smile-of-the-year {
   position: relative;
   bottom: 10px;
   color: white;
@@ -110,7 +101,7 @@ header{
   font-style: italic;
   font-weight: bold;
 }
-.little-smile{
+.little-smile {
   position: relative;
   bottom: 10px;
   color: white;
@@ -119,12 +110,9 @@ header{
   font-family: sans-serif;
   font-style: italic;
   font-weight: bold;
-
-
-
 }
 
-.Friend-Smile{
+.Friend-Smile {
   position: relative;
   bottom: 10px;
   color: white;
@@ -133,11 +121,9 @@ header{
   font-family: sans-serif;
   font-style: italic;
   font-weight: bold;
-
-
 }
 
-.pink-sec{
+.pink-sec {
   background-color: #c271ff;
   display: flex;
   justify-content: center;
@@ -146,19 +132,15 @@ header{
 }
 
 .pink-sec blockquote {
-
   width: 500px;
   color: white;
-  text-align:left;
+  text-align: left;
   font-family: sans-serif;
   line-height: 33.6px;
   font-weight: 400;
   font-size: 22px;
-  
-
-
 }
-.pink-sec h3{
+.pink-sec h3 {
   color: white;
   position: relative;
   left: 40px;
@@ -170,48 +152,78 @@ header{
   position: relative;
   left: 40px;
   color: white;
- font-style: italic;
+  font-style: italic;
   font-family: sans-serif;
   font-weight: 400;
   position: relative;
   bottom: 25px;
   font-family: sans-serif;
-
-
-
 }
 .alignment {
   display: flex;
   justify-content: center;
-  justify-items:start;
+  justify-items: start;
   flex-direction: column;
   width: 730px;
-  }
+}
 
-  .Free-membership {
-    background-color: #071629;
-    color: white;
-    font-family: sans-serif;
-    height: 502px;
+.Free-membership {
+  background-color: #071629;
+  color: white;
+  font-family: sans-serif;
+  height: 502px;
+}
+.Free-membership h2 {
+  position: relative;
+  top: 70px;
 
-  }
-  .Free-membership h2 {
-    position: relative;
-    top: 70px;
-    
-    margin-top: 0px;
-    margin-bottom: 150px;
-    font-family: sans-serif;
+  margin-top: 0px;
+  margin-bottom: 150px;
+  font-family: sans-serif;
+}
 
-  }
+.navy-sec {
+  display: flex;
+  font-family: sans-serif;
+  gap: 50px;
+  justify-content: center;
+  margin-left: 164px;
+  text-align: center;
+  margin-right: 164px;
+  font-weight: 600px;
+}
 
-  .navy-sec{
-    display: flex;
-    font-family: sans-serif;
-    gap: 50px;
-    justify-content: center;
-    margin-left: 164px;
-    text-align: center;
+.register-2 {
+  background-color: #c271ff;
+  color: aliceblue;
+  border-radius: 22px;
+  border-style: none;
+  width: 162px;
+  font-weight: 600;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+  font-size: 14px;
+  height: 44px;
+}
+.container-register-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+}
+.FAQ-container{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 249px;
+  width: 1000px;
+  gap: 200px;
+  font-family: sans-serif;
+  padding: 90px;
 
+}
+.FAQ-container1{
+  align-content: space-between;
 
-  }
+}
+
