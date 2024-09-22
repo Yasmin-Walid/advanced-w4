@@ -227,3 +227,27 @@ header {
 
 }
 
+footer{
+  background-color: #071629;
+height: 249px;
+}
+.footer-logo{
+display: flex;
+justify-content:space-around;
+flex-direction: row;
+position: relative;
+top: 95px;
+left: 65px;
+bottom: 144px;
+width: 160px;
+height: 30px;
+color: white;
+}
+.contact-container{
+display: flex;
+justify-content: flex-end;
+color: white;
+position: relative;
+top: 73px;
+right: 240px;
+}
