@@ -106,6 +106,9 @@ header{
   color: white;
   width: 150px;
   text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
 }
 .little-smile{
   position: relative;
@@ -113,6 +116,10 @@ header{
   color: white;
   width: 150px;
   text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+
 
 
 }
@@ -123,5 +130,61 @@ header{
   color: white;
   width: 150px;
   text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+
+
+}
+
+.pink-sec{
+  background-color: #c271ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 292px;
+}
+
+.pink-sec blockquote {
+
+  width: 500px;
+  color: white;
+  text-align:left;
+  font-family: sans-serif;
+  line-height: 33.6px;
+  
+
+
+}
+.pink-sec h3{
+  color: white;
+  position: relative;
+  left: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+
+}
+.pink-sec p {
+  position: relative;
+  left: 40px;
+  color: white;
+font-style: italic;
+  font-family: sans-serif;
+  font-weight: lighter;
+  position: relative;
+  bottom: 20px;
+
+
+
+}
+.alignment {
+  display: flex;
+  justify-content: center;
+  justify-items:start;
+  flex-direction: column;
+  width: 730px;
+  
+
+
 
 }
