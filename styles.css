@@ -210,13 +210,12 @@ header {
   justify-content: center;
   align-items: center;
   position: relative;
-  top: 100px;
+  top: 60px;
 }
 .FAQ-container{
   display: flex;
   margin-left: 200px;
   margin-right: 249px;
-  width: 1000px;
   gap: 200px;
   font-family: sans-serif;
   padding: 90px;
@@ -251,4 +250,33 @@ position: relative;
 top: 73px;
 right: 240px;
 gap: 30px;
+}
+.tutorials{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  margin-left: 106px;
+  margin-right: 106px;
+  gap: 50px;
+  font-family: sans-serif;
+  margin-bottom: 87px;
+  
+  
+}
+.philip-info{
+  display: flex;
+  justify-content: space-between;
+}
+
+.philip-img.{
+  height: 100px; 
+  width: 100px;;
+}
+
+.rate-time{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 14px;
 }
