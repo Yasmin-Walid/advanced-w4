@@ -212,46 +212,44 @@ header {
   position: relative;
   top: 60px;
 }
-.FAQ-container{
+.FAQ-container {
   display: flex;
   margin-left: 200px;
   margin-right: 249px;
   gap: 200px;
   font-family: sans-serif;
   padding: 90px;
-
 }
-.FAQ-container1{
+.FAQ-container1 {
   align-content: space-between;
-
 }
 
-footer{
+footer {
   background-color: #071629;
-height: 249px;
+  height: 249px;
 }
-.footer-logo{
-display: flex;
-justify-content:space-around;
-flex-direction: row;
-position: relative;
-top: 95px;
-left: 65px;
-bottom: 144px;
-width: 160px;
-height: 30px;
-color: white;
+.footer-logo {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  position: relative;
+  top: 95px;
+  left: 65px;
+  bottom: 144px;
+  width: 160px;
+  height: 30px;
+  color: white;
 }
-.contact-container{
-display: flex;
-justify-content: flex-end;
-color: white;
-position: relative;
-top: 73px;
-right: 240px;
-gap: 30px;
+.contact-container {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  position: relative;
+  top: 73px;
+  right: 240px;
+  gap: 30px;
 }
-.tutorials{
+.tutorials {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -261,22 +259,31 @@ gap: 30px;
   gap: 50px;
   font-family: sans-serif;
   margin-bottom: 87px;
-  
-  
 }
-.philip-info{
+.philip-info {
   display: flex;
-  justify-content: space-between;
+  justify-content:start;
+  font-family: sans-serif;
+  color: #c271ff;
+  align-items: center;
+  font-size: 14px;
+  gap: 10px;
 }
 
-.philip-img.{
-  height: 100px; 
-  width: 100px;;
-}
-
-.rate-time{
+.rate-time {
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
   font-size: 14px;
+  
+}
+
+.rating{
+  color: #c271ff;
+ 
+}
+
+.time{
+  color: #c271ff;
+
 }
