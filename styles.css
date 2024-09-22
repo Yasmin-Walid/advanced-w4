@@ -262,7 +262,7 @@ footer {
 }
 .philip-info {
   display: flex;
-  justify-content:start;
+  justify-content: start;
   font-family: sans-serif;
   color: #c271ff;
   align-items: center;
@@ -275,15 +275,12 @@ footer {
   justify-content: space-between;
   margin-top: 10px;
   font-size: 14px;
-  
 }
 
-.rating{
+.rating {
   color: #c271ff;
- 
 }
 
-.time{
+.time {
   color: #c271ff;
-
 }
